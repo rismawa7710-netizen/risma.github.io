@@ -24,12 +24,12 @@
         <tbody>
             <tr>
                 <td>PC Server</td>
-                <td>Proxmox, 32GB RAM</td>
+                <td>Proxmox,32GB RAM</td>
                 <td>Aktif</td>
             </tr>
             <tr>
                 <td>Switch</td>
-                <td>mikrotik CRS,24port</td>
+                <td>Mikrotik CRS,24port</td>
                 <td>Aktif</td>
             </tr>
         </tbody>
