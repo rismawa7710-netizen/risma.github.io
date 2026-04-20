@@ -5,17 +5,13 @@
 </head>
 <body>
     <h1>Laporan Inventaris Lab Komputer</h1>
-
-    <img src="lab-tkj.jpg" alt="Suasana Lab" width="500">
-
+<img src="lab-tkj.jpg" alt="Suasana Lab" width="500">
     <hr>
-
     <h3>Tata Tertib Lab:</h3>
     <ul>
         <li>Dilarang membawa makanan.</li>
         <li>Wajib merapikan kabel setelah praktik.</li>
     </ul>
-
     <h3>Data Perangkat:</h3>
     <table border="1" cellpadding="10">
         <thead>
@@ -33,6 +29,10 @@
             </tr>
             <tr>
                 <td>Switch</td>
-                ```
-
-**Catatan:** Kode pada baris 35 dan seterusnya terpotong di foto, jadi saya hanya bisa menyalin sampai bagian pembuka baris tabel untuk "Switch". Jangan lupa untuk menutup tag `</tbody>`, `</table>`, `</body>`, dan `</html>` di bagian akhir file kamu.
+                <td>mikrotik CRS,24port</td>
+                <td>Aktif</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
