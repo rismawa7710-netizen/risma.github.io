@@ -6,9 +6,34 @@
     <title>Kelompok 5 - Pemrograman Web</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
+      <section class="container mt-5" id="anggota">
+    <h2 class="text-center mb-5">Anggota Kelompok 5</h2>
+    <div class="row g-4 justify-content-center">
+        <div class="col-md-4 col-lg-2">
+            <div class="card h-100 shadow-sm text-center">
+                <div class="card-body">
+                    <h6 class="card-title">Arga Pratama,M.Rizky fadilah,M.fadilah,M.fajar,Risma w.d.</h6>
+                </div>
+            </div>
+        </div>
+        </div>
+</section>
         body {
             background-color: #f8f9fa;
         }
+    <section class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+            <h3>Visi & Misi</h3>
+            <p><strong>Visi:</strong> Mengedukasi masyarakat tentang pentingnya menjaga kebersihan tangan melalui produk buatan sendiri.</p>
+            <p><strong>Misi:</strong> Menyediakan panduan praktis pembuatan sabun yang ekonomis dan efektif.</p>
+        </div>
+        <div class="col-md-6">
+            <h3>Latar Belakang</h3>
+            <p>Website ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web sekaligus menjadi media informasi mengenai langkah preventif menjaga kesehatan dimulai dari mencuci tangan.</p>
+        </div>
+    </div>
+</section>
         .hero-section {
             background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80');
             background-size: cover;
