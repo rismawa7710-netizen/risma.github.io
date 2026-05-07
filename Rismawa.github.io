@@ -55,6 +55,33 @@
             padding: 20px 0;
             margin-top: 50px;
         }
+      <section class="container mt-5" id="tugas">
+    <h2 class="text-center mb-4">Proyek: Sabun Cuci Tangan</h2>
+    
+    <div class="row">
+        <div class="col-md-5">
+            <div class="p-4 bg-light rounded shadow-sm">
+                <h5>Alat & Bahan</h5>
+                <ul>
+                    <li>Texapon & Sodium Klorida (Garam)</li>
+                    <li>Air Bersih & Pewarna/Pewangi</li>
+                    <li>Wadah besar & Pengaduk</li>
+                    <li>Botol kemasan</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-md-7">
+            <h5>Langkah Pembuatan</h5>
+            <ol class="list-group list-group-numbered">
+                <li class="list-group-item">Campurkan Texapon dan garam, aduk hingga memutih.</li>
+                <li class="list-group-item">Tambahkan air sedikit demi sedikit sambil terus diaduk rata.</li>
+                <li class="list-group-item">Masukkan pewarna dan pewangi sesuai selera.</li>
+                <li class="list-group-item">Diamkan hingga busa menghilang dan pindahkan ke botol.</li>
+            </ol>
+        </div>
+    </div>
+</section>
     </style>
 </head>
 <body>
@@ -102,7 +129,7 @@
                         <div class="mb-3">
                             <img src="https://ui-avatars.com/api/?name=Anggota+2&background=random&size=128" class="rounded-circle" alt="Profile">
                         </div>
-                        <h5 class="card-title">Nama Anggota 2</h5>
+                        <h5 class="card-title">Nama Anggota 5</h5>
                         <p class="card-text text-muted">Anggota</p>
                     </div>
                 </div>
