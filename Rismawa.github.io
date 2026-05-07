@@ -85,6 +85,25 @@
     </style>
 </head>
 <body>
+ <div class="soap-grid">
+  <div class="card">
+    <h3>Texapon</h3>
+    <span class="tag">Surfactant</span>
+    <p>Zat utama pembersih dan pembuat busa melimpah.</p>
+  </div>
+
+  <div class="card">
+    <h3>Garam (NaCl)</h3>
+    <span class="tag">Pengental</span>
+    <p>Mengubah tekstur sabun dari encer menjadi kental.</p>
+  </div>
+
+  <div class="card">
+    <h3>Sodium Sulfat</h3>
+    <span class="tag">Filler</span>
+    <p>Membantu daya bersih dan mempercepat pengentalan.</p>
+  </div>
+</div>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <div class="container">
@@ -104,7 +123,7 @@
 
     <header class="hero-section text-center" id="home">
         <div class="container">
-            <h1 class="display-4 fw-bold">Selamat Datang di Website Kelompok 2</h1>
+            <h1 class="display-4 fw-bold">Selamat Datang di Website Kelompok 5</h1>
             <p class="lead">Tugas Mata Kuliah Pemrograman Web - Implementasi Bootstrap & GitHub Pages</p>
         </div>
     </header>
