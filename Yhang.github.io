@@ -339,7 +339,7 @@
     <header>
         <div class="navbar container">
             <div class="logo">
-                <img src="1000128494.png" alt="Logo Earthy Wonderland">
+                <img src="logo.jpeg" alt="Logo Earthy Wonderland">
                 <span>Earthy Wonderland</span>
             </div>
             <nav>
@@ -403,12 +403,12 @@
         </div>
         <div class="produk-wrapper">
             <div class="produk-img">
-                <img src="1000128500.jpg" alt="Cangkir Bambu Earthy Wonderland">
+                <img src="IMG-20260524-WA0067.jpg" alt="Cangkir Bambu Earthy Wonderland">
             </div>
             <div class="produk-detail">
                 <span class="badge">Edisi Terbatas</span>
                 <h3>Earthy Wonderland Classic Edition No.1</h3>
-                <p class="price">Rp 15.000</p>
+                <p class="price">Rp 25.000</p>
                 <p>Cangkir bambu premium, dipotong dari bambu pilihan dan dilapisi dengan <em>food-grade water coating</em> yang aman. Memiliki serat alami yang unik di setiap cangkirnya, memberikan sensasi minum di tengah hutan yang damai.</p>
                 
                 <div class="brosur-box">
@@ -428,14 +428,14 @@
             <div class="media-box">
                 <h3>Brosur Produk</h3>
                 <p style="margin-bottom: 15px; font-size: 0.9rem; color: #666;">Panduan komparasi detail & spesifikasi</p>
-                <img src="1000128490.jpg" alt="Brosur Earthy Wonderland">
-                <a href="1000128490.jpg" download class="btn-secondary">Simpan Brosur</a>
+                <img src="IMG-20260529-WA0006.jpg" alt="Brosur Earthy Wonderland">
+                <a href="IMG-20260529-WA0006.jpg" download class="btn-secondary">Simpan Brosur</a>
             </div>
             <div class="media-box wood-frame">
                 <h3>Poster Resmi</h3>
                 <p style="margin-bottom: 15px; font-size: 0.9rem; color: #666;">Flyer visualisasi promo spesial kelompok</p>
-                <img src="1000128488.jpg" alt="Poster Earthy Wonderland">
-                <a href="1000128488.jpg" download class="btn">Unduh Poster (HD)</a>
+                <img src="IMG-20260602-WA0000.jpg" alt="Poster Earthy Wonderland">
+                <a href="IMG-20260602-WA0000.jpg" download class="btn">Unduh Poster (HD)</a>
             </div>
         </div>
     </section>
@@ -448,24 +448,28 @@
             </div>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="1000128495.jpg" alt="Proses Pemotongan Bambu">
+                    <img src="pemotongan.jpeg" alt="Proses Pemotongan Bambu">
                     <p>1. Proses Pemotongan Bambu</p>
                 </div>
                 <div class="gallery-item">
-                    <img src="1000128493.jpg" alt="Proses Pengukiran dan Pembubutan">
+                    <img src="IMG-20260520-WA0005.jpg" alt="Proses Pengukiran dan Pembubutan">
                     <p>2. Proses Bagian Pengukiran & Bubut</p>
                 </div>
-                <div class="gallery-item">
-                    <img src="1000128492.jpg" alt="Proses Pengeleman">
-                    <p>3. Proses Bagian Pengeleman Komponen</p>
+                <div class="galellery-item">
+                    <img src="pencetakan.jpeg" alt="proses pencetakan 
+                    <p>3.proses Bagian pencetakan Cangkir</p>
                 </div>
                 <div class="gallery-item">
-                    <img src="1000128498.jpg" alt="Proses Pengamplasan">
-                    <p>4. Proses Bagian Pengamplasan Halus</p>
+                    <img src="IMG-20260520-WA0005.jpg" alt="Proses Pengamplasan ">
+                    <p>4. Proses Bagian Pengamplasan Halus </p>
                 </div>
                 <div class="gallery-item">
-                    <img src="1000128499.jpg" alt="Finishing Cangkir">
-                    <p>5. Tahap Finishing & Quality Control</p>
+                    <img src="pengeleman.jpeg" alt="Proses Pengeleman">
+                    <p>5. Proses Bagian Pengeleman komponen</p>
+                </div>
+                <div class="gallery-item">
+                    <img src="IMG-20260524-WA0067.jpg" alt="Finishing Cangkir">
+                    <p>6. Tahap Finishing & Quality Control</p>
                 </div>
             </div>
         </div>
